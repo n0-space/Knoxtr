@@ -1,3 +1,5 @@
+Example: Talk Show Coordination
+
 MOOMP Platform (Massively Open Online Meme Platform)
 ├── Meme Mempool
 │   ├── Meme Tokens (MT)                # Unique representation of each meme, tracking "lineage"
