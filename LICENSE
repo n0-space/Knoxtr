@@ -1,0 +1,72 @@
++----------------------------------------------------------------------------+
+|                                                                            |
+|                       ***  Open Discussion License  ***                    |
+|                                                                            |
+|                                                                            |
+|                                Version 1.0                                 |
+|                                                                            |
++----------------------------------------------------------------------------+
+
+                                 Preamble
+ ----------------------------------------------------------------------------
+ This license provides a framework for open and collaborative discourse
+ engines, ensuring that any platform built with this license remains forkable,
+ customizable, and accessible. By using this license, you agree to uphold the
+ principles of transparency, open modification, and universal access outlined
+ below.
+
+                            License Grant
+ ----------------------------------------------------------------------------
+ You are free to:
+ - **Use**: Run this software for any purpose without restriction.
+ - **Modify**: Customize or extend any part of the code to meet the needs of
+               your platform, project, or users.
+ - **Share**: Distribute this software or any modified version, provided
+              that you include this license and any modifications in the
+              same spirit of openness.
+
+                            User Rights
+ ----------------------------------------------------------------------------
+ 1. **Forkability**: Any feature, function, or module can be forked or
+                     customized without limitation. This includes session
+                     parameters, semantic dictionaries, and action pricing.
+
+ 2. **User Autonomy**: All participants may define personal, session-specific
+                       settings to optimize their experience.
+
+ 3. **Universal Access**: Modifications, configurations, or improvements
+                          should remain accessible to all, ensuring the platform
+                          remains universally open and non-proprietary.
+
+                           System Commitments
+ ----------------------------------------------------------------------------
+ - **Mutual Data Openness**: All data generated in discussions, including
+                             session metrics, is openly accessible within the
+                             platform's ecosystem, fostering transparency and
+                             trust.
+
+ - **Session Customization**: Participants retain the right to adapt session
+                              parameters, subject to shared and visible
+                              consensus.
+
+ - **Free Redistribution**: This software can be redistributed freely, with the
+                            condition that the Open Discussion License terms
+                            remain attached to any redistributed copy.
+
+                           Attribution & Liability
+ ----------------------------------------------------------------------------
+ - **Attribution**: Any distribution or display of this software, or any
+                    derivative, must give appropriate credit to the original
+                    authors.
+ - **No Liability**: The authors and contributors are not liable for any
+                     damages or issues arising from the use or modification of
+                     this software. 
+
+ ----------------------------------------------------------------------------
+                        | USE, SHARE, FORK, MODIFY |
+ ----------------------------------------------------------------------------
+**With this license, let discussions evolve freely and transparently, with
+ the spirit of open collaboration.** 
+
+ End of Open Discussion License Version 1.0.
+ ----------------------------------------------------------------------------
