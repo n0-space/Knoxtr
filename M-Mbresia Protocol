@@ -1,0 +1,92 @@
+Tree of Concept
+
+1. Hierarchies of Modes in Token Issuance
+
+	•	1.1 Fixed Issuance
+	•	Static allocation per epoch.
+	•	Linear distribution schedule.
+	•	1.2 Elastic Issuance
+	•	Dynamic issuance tied to room activity.
+	•	Token inflation controlled by participation rate.
+	•	1.3 Conditional Issuance
+	•	Event-based triggers for token creation.
+	•	Example: Precipitation thresholds or collective actions.
+	•	1.4 Reputation-based Issuance
+	•	Weighted by user contribution scores.
+	•	Token allocation proportional to earned privileges.
+
+2. Mutation Orchestration
+
+	•	2.1 Token Conversions
+	•	Direct exchanges between token types.
+	•	Context-specific conversion rules (e.g., Amethyst ↔ VBC).
+	•	2.2 Burn-and-Create Mechanisms
+	•	Token burns triggering new token types.
+	•	Value redirection through destruction thresholds.
+	•	2.3 Conditional Mutation
+	•	Actions triggering token metamorphosis.
+	•	Example: Role-action tokens mutating upon validation.
+	•	2.4 Dynamic Reallocation
+	•	Reweighting token balances based on interaction feedback.
+	•	Incentive recalibration through algorithmic consensus.
+
+3. Room Administration Hooks
+
+	•	3.1 Setting Parameters
+	•	Define room-specific token rules (e.g., burn thresholds).
+	•	Adjust privileges and governance metrics.
+	•	3.2 DHT Interaction Controls
+	•	Allocate DHT real estate through Amethyst burns.
+	•	Manage cross-room precipitate flows.
+	•	3.3 Submissions Validation
+	•	Moderation using token-gated peer review.
+	•	Assign validation tokens for contributions.
+	•	3.4 Orchestration of Precipitates
+	•	Synchronize room events to incentivize desired outcomes.
+	•	Trigger cascading token flows for milestone achievement.
+
+4. Discussion Goals
+
+	•	4.1 Structured Debate
+	•	Goal: Clarify consensus through tokenized engagement.
+	•	Metrics: Precipitate clarity and peer validation.
+	•	4.2 Innovation Challenges
+	•	Goal: Foster ideation via competitive incentives.
+	•	Metrics: Token rewards for novel precipitates.
+	•	4.3 Community Governance
+	•	Goal: Define collective decisions via voting tokens.
+	•	Metrics: Participation rates and resolution efficiency.
+	•	4.4 Knowledge Sharing
+	•	Goal: Build shared understanding through token-curated content.
+	•	Metrics: Quality-adjusted validation flow.
+
+5. Actionable Precipitate
+
+	•	5.1 Token Reward Allocation
+	•	Precipitate determines next token flow direction.
+	•	Redistribution rules encoded by precipitation event.
+	•	5.2 Room Evolution
+	•	Trigger room state changes (e.g., forks, splits).
+	•	Cascade to interlinked rooms.
+	•	5.3 DHT Memory Update
+	•	Finalize submissions in DHT as permanent records.
+	•	Enable cross-room context sharing through indexed precipitates.
+	•	5.4 Action Consensus
+	•	Enact community-endorsed tasks or proposals.
+	•	Incentivize execution using targeted token burns.
+
+6. Standard Submission JSON Metafields
+
+	•	6.1 Metadata
+	•	Cryptographic hash: Submission ID.
+	•	Author: Pseudonymous attribution or signature.
+	•	6.2 Content
+	•	Payload: Submission text, media, or data.
+	•	Validation criteria: Required inputs for approval.
+	•	6.3 Interaction
+	•	Peer feedback: Upvotes, downvotes, comments.
+	•	Token actions: Burns, issuances, or mutations triggered.
+	•	6.4 State
+	•	Status: Pending, validated, or precipitated.
+	•	Token flow context: Linked issuance/mutation record.
+
