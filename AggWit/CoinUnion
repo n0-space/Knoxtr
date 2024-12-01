@@ -37,6 +37,7 @@ Impact on Ordinals and Runes
 	•	The dynamic discounting mechanism would penalize Runes heavily in low-entropy states, effectively pricing them out of the network.
 	•	As the system incentivizes consolidating UTXOs, Rune operations would become increasingly costly.
 
+
 Reinforcing Consensus-Level Discounting
 
 	1.	Consensus-Based Rebalancing:
